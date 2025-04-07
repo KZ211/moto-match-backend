@@ -27,6 +27,7 @@ app.add_middleware(
         "https://motomatch.vercel.app",  # Posible URL de frontend en Vercel
         "https://motomatch.netlify.app",  # Posible URL de frontend en Netlify
         "https://motomatch.github.io",  # Posible URL de frontend en GitHub Pages
+        "https://moto-match-frontend.vercel.app",  # URL de frontend en Vercel
     ],
     allow_credentials=True,
     allow_methods=["*"],  # Permite todos los métodos HTTP
