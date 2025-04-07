@@ -21,7 +21,13 @@ app = FastAPI()
 # Configurar CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # URL de tu frontend
+    allow_origins=[
+        "http://localhost:3000",  # URL de desarrollo local
+        "https://moto-match-backend.onrender.com",  # URL de producción en Render
+        "https://motomatch.vercel.app",  # Posible URL de frontend en Vercel
+        "https://motomatch.netlify.app",  # Posible URL de frontend en Netlify
+        "https://motomatch.github.io",  # Posible URL de frontend en GitHub Pages
+    ],
     allow_credentials=True,
     allow_methods=["*"],  # Permite todos los métodos HTTP
     allow_headers=["*"],  # Permite todos los headers
