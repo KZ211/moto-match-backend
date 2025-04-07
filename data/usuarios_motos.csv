@@ -1,0 +1,22 @@
+estatura,peso,genero,experiencia,preferencia_uso,preferencia_estilo,modelo_recomendado
+165,55,mujer,principiante,ciudad,scooter,Honda Navi
+172,80,hombre,media,ciudad,urbana,Yamaha FZ 2.0
+185,90,hombre,avanzada,ruta,touring,Bajaj Dominar 400
+178,75,hombre,media,mixto,offroad,Honda XR150L
+160,70,mujer,media,ciudad,scooter,Corven Mirage 110
+170,65,hombre,principiante,ciudad,urbana,Yamaha FZ 2.0
+180,85,hombre,avanzada,ruta,touring,Benelli TRK 502
+175,70,mujer,media,mixto,deportiva,Yamaha MT-03
+168,60,mujer,media,ciudad,deportiva,KTM Duke 200
+183,95,hombre,avanzada,off-road,offroad,Honda Tornado 250
+178,78,hombre,media,ruta,touring,Kawasaki Versys X300
+165,68,mujer,media,ciudad,scooter,Corven Mirage 110
+160,52,mujer,principiante,ciudad,scooter,Honda Navi
+174,70,hombre,media,mixto,urbana,Yamaha FZ 2.0
+182,88,hombre,avanzada,ruta,deportiva,KTM Duke 200
+160,50,mujer,principiante,off-road,urbana,Motomel Max 110
+170,65,hombre,principiante,off-road,offroad,Motomel Max 110
+180,85,hombre,principiante,off-road,urbana,Motomel Max 110
+175,70,mujer,principiante,mixto,urbana,Motomel Max 110
+168,60,mujer,principiante,ciudad,ciudad,Motomel Max 110
+183,95,hombre,principiante,off-road,offroad,Motomel Max 110
